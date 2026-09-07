@@ -1,17 +1,12 @@
-# app_catalogo_mobile
+# Atividade Emulador Flutter
 
-A new Flutter project.
+Atividade desenvolvida em Flutter para testar e demonstrar a execução do aplicativo em um emulador.
 
-## Getting Started
+## Tecnologias
 
-This project is a starting point for a Flutter application.
+* Flutter
+* Dart
 
-A few resources to get you started if this is your first Flutter project:
+## Prints
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Os prints da atividade concluída estão disponíveis na pasta `prints`.
